@@ -1,0 +1,51 @@
+"Student_ID","Age","Gender","Year_Level","Online_Platform","Daily_Online_Learning_Hours","Weekly_Online_Classes","Internet_Connection","Learning_Materials_Access","Participation_Rating","Learning_Effectiveness_Score","Student_Satisfaction"
+1,24,"Female","1st Year","Canvas",2.7,10,"Excellent","Rarely",1,70,2
+2,24,"Male","4th Year","Moodle",7.7,9,"Poor","Rarely",2,95,5
+3,20,"Male","2nd Year","Canvas",5.2,3,"Fair","Rarely",3,69,4
+4,23,"Male","1st Year","Microsoft Teams",4.6,6,"Excellent","Rarely",3,83,4
+5,20,"Male","4th Year","Google Classroom",3.8,10,"Excellent","Sometimes",1,87,1
+6,19,"Female","2nd Year","Canvas",7.2,8,"Excellent","Rarely",2,98,3
+7,19,"Female","1st Year","Canvas",3.5,8,"Good","Sometimes",1,77,3
+8,23,"Male","3rd Year","Canvas",3,9,"Good","Sometimes",2,76,3
+9,20,"Female","3rd Year","Google Classroom",2.2,7,"Fair","Sometimes",2,79,5
+10,22,"Male","4th Year","Canvas",2.2,8,"Good","Always",2,68,2
+11,21,"Male","4th Year","Canvas",4.4,2,"Fair","Sometimes",5,70,5
+12,23,"Female","2nd Year","Moodle",2.8,10,"Excellent","Sometimes",4,67,2
+13,23,"Female","4th Year","Moodle",2.5,4,"Excellent","Sometimes",4,64,1
+14,18,"Male","3rd Year","Moodle",5.7,6,"Poor","Rarely",5,88,4
+15,19,"Male","1st Year","Canvas",1.3,7,"Excellent","Often",4,65,2
+16,20,"Female","2nd Year","Microsoft Teams",5.9,10,"Excellent","Sometimes",1,69,2
+17,25,"Male","2nd Year","Canvas",3.5,5,"Excellent","Sometimes",2,85,3
+18,22,"Male","4th Year","Canvas",3.9,8,"Poor","Sometimes",1,68,5
+19,20,"Male","3rd Year","Moodle",6.7,10,"Fair","Always",2,70,1
+20,20,"Male","2nd Year","Google Classroom",7.4,8,"Excellent","Always",3,65,3
+21,18,"Female","1st Year","Moodle",3,5,"Poor","Sometimes",2,91,3
+22,21,"Male","4th Year","Microsoft Teams",7.7,9,"Excellent","Often",3,71,2
+23,18,"Male","3rd Year","Microsoft Teams",6.1,10,"Fair","Sometimes",1,78,5
+24,18,"Male","3rd Year","Microsoft Teams",5.8,10,"Fair","Often",4,86,1
+25,22,"Male","3rd Year","Google Classroom",1.4,10,"Poor","Always",2,91,4
+26,20,"Female","2nd Year","Canvas",3.8,6,"Good","Rarely",3,86,4
+27,25,"Female","2nd Year","Canvas",4.3,8,"Excellent","Often",5,89,1
+28,19,"Male","3rd Year","Microsoft Teams",4.9,7,"Excellent","Often",5,63,3
+29,24,"Female","1st Year","Microsoft Teams",5.9,2,"Excellent","Often",3,83,4
+30,19,"Female","1st Year","Moodle",7.4,2,"Good","Rarely",2,87,4
+31,18,"Female","4th Year","Microsoft Teams",5.3,2,"Excellent","Always",5,62,1
+32,23,"Female","3rd Year","Google Classroom",4,6,"Good","Rarely",4,99,5
+33,20,"Male","2nd Year","Canvas",4.8,8,"Excellent","Always",2,65,3
+34,21,"Female","2nd Year","Google Classroom",1.4,6,"Poor","Always",1,95,4
+35,23,"Female","2nd Year","Canvas",2.8,10,"Excellent","Sometimes",4,89,2
+36,18,"Female","4th Year","Moodle",3.8,5,"Fair","Sometimes",1,69,3
+37,20,"Male","2nd Year","Moodle",2.4,7,"Fair","Always",4,84,2
+38,24,"Male","2nd Year","Google Classroom",6.8,3,"Good","Always",5,97,3
+39,22,"Female","2nd Year","Canvas",2.1,2,"Good","Sometimes",4,95,3
+40,21,"Male","3rd Year","Moodle",6.6,6,"Excellent","Always",2,100,1
+41,24,"Female","4th Year","Microsoft Teams",4.8,10,"Fair","Sometimes",2,84,5
+42,25,"Female","4th Year","Google Classroom",5.6,5,"Poor","Rarely",4,63,4
+43,19,"Male","2nd Year","Canvas",2.2,4,"Excellent","Often",3,74,4
+44,22,"Female","1st Year","Microsoft Teams",5.4,10,"Excellent","Always",5,81,5
+45,24,"Female","2nd Year","Microsoft Teams",3.2,2,"Good","Always",2,83,3
+46,18,"Male","2nd Year","Canvas",6.1,3,"Excellent","Sometimes",3,98,2
+47,18,"Male","2nd Year","Canvas",3.8,5,"Good","Rarely",3,96,4
+48,19,"Female","3rd Year","Microsoft Teams",7.8,2,"Good","Often",3,74,5
+49,24,"Male","4th Year","Google Classroom",7.8,6,"Good","Sometimes",1,75,2
+50,20,"Male","2nd Year","Microsoft Teams",6.1,6,"Good","Often",1,78,3
